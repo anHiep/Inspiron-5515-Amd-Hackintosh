@@ -18,13 +18,13 @@
 
 # Summary
 <details>
-    <summary>What works</summary>
+  <summary>What works</summary>
 
-    | Feature                              | Status | Dependency          |
-    | :----------------------------------- | ------ | ------------------- |
-    | Touch Sceen                          | ✅   | Lastest VoodooI2CHID.kext |
-    | Keyboard                             | ✅   | Lastest VoodooI2C.kext and voodooPS2.kext |
-    | Backlight (brightness control)       | ✅   | Lastest NootedRed.kext and SSDT-PNLF.aml from [chefkissinc](https://chefkissinc.github.io/applehax/nootedred/) |
+  | Feature                              | Status | Dependency                                                     |
+  | ------------------------------------ | ------ | -------------------------------------------------------------- |
+  | Touch Screen                         | ✅     | Latest VoodooI2C.kext, VoodooHID.kext                          |
+  | Keyboard                             | ✅     | Latest VoodooI2C.kext, VoodooPS2.kext                          |
+  | Backlight (brightness control)       | ✅     | Latest NootedRed.kext, SSDT-PNLF.aml from [chefkissinc](https://chefkissinc.github.io/applehax/nootedred/) |
 
 </details>
 
