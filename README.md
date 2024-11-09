@@ -1,7 +1,7 @@
 <h1 align="center">Hackintosh the Dell Inspiron 5515</h1>
 
 <p align="center">
-    <a href="">
+    <a href="./Pictures/desktop.png" target="_blank">
         <img src="./Pictures/desktop.png" alt="Dell Inspiron 5515 macOS"> </a>
 </p>
 
