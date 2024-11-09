@@ -87,3 +87,29 @@
 
 </details>
 
+# Some instructions & advices
+<details>
+  <summary>SSDTs</summary>
+  <br>
+
+  In the past, my friend had to write SSDT manually. But now we have a tool named [SSDTTime](https://github.com/corpnewt/SSDTTime)
+
+  **Step 1:** Start with option ```P``` to dump the current system's DSDT. **Make sure to do this on the system where you want to install MacOS**
+
+  **Step 2:** Some option that I need on my laptop
+  - ```FixHPET``` (choose ```C``` when prompting)
+  - ```USBX``` (choose default option ```B``` when prompting)
+  - ```RTCAWAC```
+  - ```PluginType``` (only on AMD laptop)
+  - ```FakeEC Laptop```
+  - ```PLNF```
+  - ```XOSI``` (choose default option ```A``` when prompting)
+
+</details>
+
+# Credits    
+- [Apple](https://www.apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for all the kexts/utilities.
+- [corpnewt](https://github.com/corpnewt) for increadible tools like Propertree, MountEFI, SSDTTime
+- [Dortania](https://github.com/dortania) for the OpenCore Install Guide.
+- [Chefkissinc](https://chefkissinc.github.io) for great kexts, patches, guides for AMD hackintosh.
