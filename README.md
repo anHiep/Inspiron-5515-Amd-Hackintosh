@@ -1,7 +1,19 @@
+<h1 align="center">Hackintosh the Dell Inspiron 5515</h1>
+
+<p align="center">
+    <a href="">
+        <img src="./Pictures/desktop.png" alt="Dell Inspiron 5515 macOS" width="600"> </a>
+</p>
+
 # Overview
-- My OpenCore EFI for Dell Inspiron 5515 with AMD ryzen 5 5500u.
-- Everything works well, except AirDrop and Finger Print due to hardware limits.
-- You can clone it and use it for your own bootable USB. But you should follow the OpenCore's instructions to apply your own machine to the EFI.
+**I am not responsible for any damages you may cause.**
+
+**If my work here helped you. Please consider donating, it would mean a lot to me.**
+
+- I will try my best to keep the EFI updated with OpenCore, Kext, NootedRed, ...
+- This EFI is configured with MacOs Ventura, I currently can't manage to update to Sonoma
+
+
 
 # Laptop Specification
 - **Processor:** AMD Ryzen 5 5500U 2.1 GHz 
