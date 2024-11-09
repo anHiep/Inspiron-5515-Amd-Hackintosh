@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>2</LogNumber>
+    <LogTimeStamp>11/09/2024 01:30:08</LogTimeStamp>
+    <BIOS_Data>
+      <ErrorCategory>OS_BOOT_FAILURE</ErrorCategory>
+      <ErrorMessage><![CDATA[Os Boot Failure]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>

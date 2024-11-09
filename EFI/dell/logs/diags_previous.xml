@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>1</LogNumber>
+    <LogTimeStamp>11/08/2024 10:46:13</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Abort</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <DevicesTested>Disk,Memory</DevicesTested>
+      <ePSAFullVersion>ED.2.4.8</ePSAFullVersion>
+      <ePSAInvocationCount>2</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>OS_BOOT_FAILURE</ErrorCategory>
+      <ErrorMessage><![CDATA[Os Boot Failure]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
