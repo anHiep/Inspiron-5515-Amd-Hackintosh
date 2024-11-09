@@ -40,7 +40,7 @@
   | Backlight (brightness control)       | ✅     | Latest NootedRed.kext, SSDT-PNLF.aml from [chefkissinc](https://chefkissinc.github.io/applehax/nootedred/) |
 
 </details>
-<br>
+
 <details>
   <summary>What <strong>not</strong> works</summary>
   <br>
