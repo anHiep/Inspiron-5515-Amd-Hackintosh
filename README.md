@@ -87,7 +87,7 @@
 
 </details>
 
-# Some instructions & advices
+# Some Instructions & Advices
 <details>
   <summary>SSDTs</summary>
   <br>
