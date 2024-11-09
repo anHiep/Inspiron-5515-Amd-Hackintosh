@@ -25,10 +25,10 @@
 - This EFI is configured with MacOs Ventura, I currently can't manage to update to Sonoma
 
 **Geekbench 6 results (compared to MacBook Pro 13 2018)**
-| Model                    | CPU Single-Core | CPU Multi-Core | GPU OpenCL Score | GPU Metal Score |
-| ------------------------ | --------------- | -------------- | ---------------- | --------------- |
-| Inspiron 5515 Hackintosh | 1287            | 4765           | 12183            | 17320           |
-| MacBook Pro 13 2018      | 1285            | 4537           | 7350             | 9898            |
+| Model               | Single-Core | Multi-Core | OpenCL Score | Metal Score |
+| ------------------- | ----------- | ---------- | ------------ | ----------- |
+| Inspiron Hackintosh | 1287        | 4765       | 12183        | 17320       |
+| MacBook Pro 13 2018 | 1285        | 4537       | 7350         | 9898        |
 
 
 # Laptop Specification
