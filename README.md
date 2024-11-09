@@ -31,12 +31,24 @@
 # Summary
 <details>
   <summary>What works</summary>
+  <br>
 
   | Feature                              | Status | Dependency                                                     |
   | ------------------------------------ | ------ | -------------------------------------------------------------- |
   | Touch Screen                         | ✅     | Latest VoodooI2C.kext, VoodooHID.kext                          |
   | Keyboard                             | ✅     | Latest VoodooI2C.kext, VoodooPS2.kext                          |
   | Backlight (brightness control)       | ✅     | Latest NootedRed.kext, SSDT-PNLF.aml from [chefkissinc](https://chefkissinc.github.io/applehax/nootedred/) |
+
+</details>
+<br>
+<details>
+  <summary>What <strong>not</strong> works</summary>
+  <br>
+
+  | Feature                              | Status | Dependency                                                     |
+  | ------------------------------------ | ------ | -------------------------------------------------------------- |
+  | Air Drop/ Handoff                    | ❌     | Broadcom BlueTooth card                                        |
+  | Finger Print                         | ❌     | Requires Apple M2 Chip (I don't know why)                       |
 
 </details>
 
