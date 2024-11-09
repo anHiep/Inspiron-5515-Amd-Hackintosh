@@ -111,6 +111,18 @@
 
 </details>
 
+<details>
+  <summary>Increase VRAM</summary>
+  <br>
+
+  **Disclaimer:** This ```Smokeless_UMAF``` is significant **dangerous**, which can break your system's BIOS. **THINK TWICE** before commiting any changes. **USE AT YOUR OWN RISK**. 
+  
+  **Disclaimer:** **No one** is responsible for any damage.
+
+  **Instruction:** I followed this [Youtube video](https://www.youtube.com/watch?v=mzLinRI1IVw) which uses [Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF)
+
+</details>
+
 # Credits    
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for all the kexts/utilities.
