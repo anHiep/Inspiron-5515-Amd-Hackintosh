@@ -19,6 +19,8 @@
 
 **If my work here helped you. Please consider donating, it would mean a lot to me.**
 
+**Any advice or suggestions would be greatly appreciated.**
+
 - I will try my best to keep the EFI updated with OpenCore, Kext, NootedRed, ...
 - This EFI is configured with MacOs Ventura, I currently can't manage to update to Sonoma
 
@@ -42,9 +44,21 @@
 
   | Feature                              | Status | Dependency                                                     |
   | ------------------------------------ | ------ | -------------------------------------------------------------- |
-  | Touch Screen                         | ✅     | Latest VoodooI2C.kext, VoodooHID.kext                          |
-  | Keyboard                             | ✅     | Latest VoodooI2C.kext, VoodooPS2.kext                          |
-  | Backlight (brightness control)       | ✅     | Latest NootedRed.kext, SSDT-PNLF.aml from [chefkissinc](https://chefkissinc.github.io/applehax/nootedred/) |
+  | Touch Screen (with gestures like trackpad) | ✅     | Latest VoodooI2C.kext, VoodooHID.kext                    |
+  | Built-in Keyboard, Mouse             | ✅     | Latest VoodooI2C.kext, VoodooPS2.kext                          |
+  | Trackpad Gestures                    | ✅     |                                                                |
+  | Backlight (Brightness Control)       | ✅     | Latest NootedRed.kext, SSDT-PNLF.aml from [chefkissinc](https://chefkissinc.github.io/applehax/nootedred/) |
+  | Keyboard brightness                  | ✅     | BrightnessKeys.kext                                            |
+  | iServices (iMessage, FaceTime, App Store, iCloud, ...)| ✅     | Generate your own SMBIOS                              |
+  | Graphic Acceleration                 | ✅     | Increase Vram to 2 GB using [Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) |
+  | Battery Percentage Indication        | ✅     |                                                                |
+  | Processor Status                     | ✅     | VirtualSMC.kext                                                |
+  | WiFi                                 | ✅     | AirportItlwm.kext                                              |
+  | Bluetooth                            | ✅     | IntelBluetoothFirmware.kext, BlueToolFixup.kext                |
+  | USB 2.0, USB 3.0, USB type C         | ✅     | USBToolBox.kext                                                |
+  | Camera                               | ✅     |                                                                |
+  | Audio                                | ✅     | AppleALC.kext                                                  |
+  | HDMI                                 | ✅     |                                                                |
 
 </details>
 
@@ -55,7 +69,21 @@
   | Feature                              | Status | Dependency                                                     |
   | ------------------------------------ | ------ | -------------------------------------------------------------- |
   | Air Drop/ Handoff                    | ❌     | Broadcom BlueTooth card                                        |
-  | Finger Print                         | ❌     | Requires Apple M2 Chip (I don't know why)                       |
+  | Finger Print                         | ❌     | Requires Apple M2 Chip (I don't know why)                      |
+  | Bootcamp                             | ❌     | Maybe because ssd problems                                     |
+
+</details>
+
+<details>
+  <summary>What is <strong>not</strong> tested</summary>
+  <br>
+
+  | Feature                              | Status | Dependency                                                     |
+  | ------------------------------------ | ------ | -------------------------------------------------------------- |
+  | Time Machine                         | 🕒     |                                                                |
+  | Microphone                           | 🕒     |                                                                |
+  | Screen Mirroring                     | 🕒     |                                                                |
+  | SD Card Reader                       | 🕒     |                                                                |
 
 </details>
 
