@@ -115,9 +115,9 @@
   <summary>Increase VRAM</summary>
   <br>
 
-  **Disclaimer:** This ```Smokeless_UMAF``` is significant **dangerous**, which can break your system's BIOS. **THINK TWICE** before commiting any changes. **USE AT YOUR OWN RISK**. 
+  **Disclaimer:** This ```Smokeless_UMAF``` is significant **DANGEROUS**, which can break your system's BIOS. **THINK TWICE** before commiting any changes. **USE AT YOUR OWN RISK**. 
   
-  **Disclaimer:** **No one** is responsible for any damage.
+  **Disclaimer:** **NO ONE** is responsible for any damage.
 
   **Instruction:** I followed this [Youtube video](https://www.youtube.com/watch?v=mzLinRI1IVw) which uses [Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF)
 
