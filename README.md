@@ -1,6 +1,15 @@
 <h1 align="center">Hackintosh the Dell Inspiron 5515</h1>
 
 <p align="center">
+    <a href="https://support.apple.com/vi-vn/106337">
+        <img src="https://img.shields.io/badge/Ventura-13.7.1-orange.svg"/></a>
+    <a href="https://www.dell.com/support/home/en-vn/product-support/product/inspiron-15-5515-laptop/overview">
+        <img src="https://img.shields.io/badge/Inspiron-5515-blue"/></a>
+    <a href="https://github.com/acidanthera/OpenCorePkg">
+        <img src="https://img.shields.io/badge/OpenCore-1.0.2-blue"/></a>
+</p>
+
+<p align="center">
     <a href="./Pictures/desktop.png" target="_blank">
         <img src="./Pictures/desktop.png" alt="Dell Inspiron 5515 macOS"> </a>
 </p>
@@ -12,8 +21,6 @@
 
 - I will try my best to keep the EFI updated with OpenCore, Kext, NootedRed, ...
 - This EFI is configured with MacOs Ventura, I currently can't manage to update to Sonoma
-
-
 
 # Laptop Specification
 - **Processor:** AMD Ryzen 5 5500U 2.1 GHz 
