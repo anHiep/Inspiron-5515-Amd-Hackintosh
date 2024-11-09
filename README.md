@@ -105,11 +105,16 @@
   - ```PLNF```
   - ```XOSI``` (choose default option ```A``` when prompting)
 
+  **Step 3:** Copy all the file end with ```*.aml``` in the ```Results``` folder. After that, paste these files into ```\EFI\OC\ACPI```
+
+  **Step 4:** Merge ```patches_OC.plist``` by using the PatchMerge script included with SSDTTime. Remember to copy the ```config.plist``` in ```Results``` folder to ```\EFI\OC``` (I made a mistake when forgeting to copy the file and wasted a lot of time fixing touch screen with backlight)
+
 </details>
 
 # Credits    
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for all the kexts/utilities.
 - [corpnewt](https://github.com/corpnewt) for increadible tools like Propertree, MountEFI, SSDTTime
+- [iamthaoly](https://github.com/iamthaoly) for SSDTTime guides
 - [Dortania](https://github.com/dortania) for the OpenCore Install Guide.
 - [Chefkissinc](https://chefkissinc.github.io) for great kexts, patches, guides for AMD hackintosh.
