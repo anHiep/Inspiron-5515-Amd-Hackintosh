@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="">
-        <img src="./Pictures/desktop.png" alt="Dell Inspiron 5515 macOS" width="600"> </a>
+        <img src="./Pictures/desktop.png" alt="Dell Inspiron 5515 macOS"> </a>
 </p>
 
 # Overview
