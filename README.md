@@ -7,6 +7,8 @@
         <img src="https://img.shields.io/badge/Inspiron-5515-blue"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
         <img src="https://img.shields.io/badge/OpenCore-1.0.2-blue"/></a>
+      <a href="https://paypal.me/anhiep2607">
+        <img src="https://img.shields.io/badge/Donate-Paypal-gren"/></a>
 </p>
 
 <p align="center">
